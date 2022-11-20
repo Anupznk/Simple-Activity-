@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dimorinny:floating-text-button:0.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c1d83ef64265727b97f2317cdb045b/jetified-floating-text-button-0.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c1d83ef64265727b97f2317cdb045b/jetified-floating-text-button-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c1d83ef64265727b97f2317cdb045b/jetified-floating-text-button-0.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9601273b472401220c6d76ddd86a186/jetified-floating-text-button-0.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9601273b472401220c6d76ddd86a186/jetified-floating-text-button-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9601273b472401220c6d76ddd86a186/jetified-floating-text-button-0.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab119fdb0f5c1662ed8b8049149c95d1/jetified-floating-text-button-0.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab119fdb0f5c1662ed8b8049149c95d1/jetified-floating-text-button-0.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab119fdb0f5c1662ed8b8049149c95d1/jetified-floating-text-button-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a27663164829e10aa7a40232ca5772a1/jetified-floating-text-button-0.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a27663164829e10aa7a40232ca5772a1/jetified-floating-text-button-0.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a27663164829e10aa7a40232ca5772a1/jetified-floating-text-button-0.0.4/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/494ebe393a27a26de7cef6e88b5c28d7/jetified-floating-text-button-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/494ebe393a27a26de7cef6e88b5c28d7/jetified-floating-text-button-0.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/494ebe393a27a26de7cef6e88b5c28d7/jetified-floating-text-button-0.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dimorinny/floating-text-button/0.0.4/39449d709fb3f7479075efbabd19905d3f021a5f/floating-text-button-0.0.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dimorinny/floating-text-button/0.0.4/8b0ed24aef1d4022d0ad728f53aadc047ef290fe/floating-text-button-0.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
