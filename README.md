@@ -1,6 +1,6 @@
+# Simple-Activity-Android
 
-- Added restrictions for empty EditText fields (Displayed toasts for guiding users)
-
-- Added a new Activity
-
-- Showed the text from the MainActivity to the new Activity
+An android app template having
+- A very simple activity switching app
+- Passing data between activities by `intent.putExtra`
+- A very simple list using `ListView`
